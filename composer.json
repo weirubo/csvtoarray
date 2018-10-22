@@ -2,12 +2,12 @@
     "name": "frankphper/csv",
     "description": "CSV FILE TO ARRAY.",
 	"keywords": ["csv", "array"],
-	"homepage": "https://www.php-z.com",
+	"homepage": "https://weirubo.github.io",
     "require": {
         "php": ">=7.2.6"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.3"
+        "phpunit/phpunit": "~7.4"
     },
     "license": "MIT",
     "authors": [
