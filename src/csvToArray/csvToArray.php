@@ -13,7 +13,7 @@ class csvToArray
     {
         $handle = fopen($this->csvFile, "r");
         if($handle === false) {
-
+	    return false;
         }
         while(feof($handle) === false) {
             yield fgetcsv($handle);
