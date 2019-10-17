@@ -7,7 +7,7 @@ CSV FILE TO ARRAY.
 Via Composer
 
 ``` bash
-$ composer require frankphper/csvtoarray
+$ composer require frankphper/csv
 ```
 
 ## Usage
